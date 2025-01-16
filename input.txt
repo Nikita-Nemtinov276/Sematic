@@ -1,0 +1,7 @@
+procedure Myprogram;
+begin
+	var x: char;
+	var y: integer;
+	x := "a" + "b";
+	y := 5 + 10;
+end
